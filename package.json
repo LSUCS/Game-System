@@ -1,0 +1,7 @@
+﻿{
+  "name": "Game System",
+  "author": "Alex Taylor",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Server.js"
+}
